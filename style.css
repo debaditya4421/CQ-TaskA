@@ -456,6 +456,10 @@ button:hover {
     }
 }
 @media screen and (max-width: 485px){
+    #alljobs {
+    border-bottom: 2px solid white;
+    margin-bottom: 1.1vw;
+}
     #container1 {
     height: 90px;
 }
