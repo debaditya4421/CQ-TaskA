@@ -522,6 +522,11 @@ h4{
 }  
 }
 @media screen and (max-width: 377px){
+    @media screen and (max-width: 330px){
+    .mi{
+        font-size: 0.7vw;
+    }
+}
     .item {
     margin: 0.9vw;
     font-size: 1vw;
